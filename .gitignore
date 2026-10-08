@@ -1,0 +1,9 @@
+@"
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+"@ | Out-File -Encoding utf8 .gitignore
